@@ -11,7 +11,7 @@
 - **Tickets & Registration**: Ticket pricing and a "Register Now" button for interaction.  
 - **Venue Information**: Venue name, address, and a map image for quick reference.  
 - **Footer with Sponsors**: Sponsor logos, contact details, and copyright info.  
-- **Responsive Design**: Optimized for all screen sizes using CSS Grid and Flexbox.  
+- **Responsive Design**: Optimized for all screen sizes using CSS Grid and Flexbox.
 
 ---
 
