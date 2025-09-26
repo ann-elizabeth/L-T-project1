@@ -62,11 +62,4 @@ This project is licensed under the **MIT License** – feel free to use and modi
 
 ---
 
-##  Contributing
-Contributions, issues, and feature requests are welcome!  
-1. Fork the repository.  
-2. Create a new branch (`feature/your-feature`).  
-3. Commit changes and push.  
-4. Open a Pull Request.  
-
 
