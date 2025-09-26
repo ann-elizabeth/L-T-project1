@@ -1,0 +1,25 @@
+body {
+  scroll-behavior: smooth;
+}
+
+/* Hero banner */
+.hero {
+  background: url('https://picsum.photos/seed/foodhero/1600/600') center/cover no-repeat;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+/* Restaurant cards */
+.restaurant-card img {
+  height: 180px;
+  object-fit: cover;
+}
+
+.restaurant-card .card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
